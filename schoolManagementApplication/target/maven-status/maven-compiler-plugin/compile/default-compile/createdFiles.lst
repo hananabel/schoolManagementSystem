@@ -1,0 +1,13 @@
+com\example\schoolManagementApplication\controllers\ParentController.class
+com\example\schoolManagementApplication\repositories\ParentRepository.class
+com\example\schoolManagementApplication\controllers\StudentController.class
+com\example\schoolManagementApplication\controllers\TeacherController.class
+com\example\schoolManagementApplication\models\Student.class
+com\example\schoolManagementApplication\services\StudentService.class
+com\example\schoolManagementApplication\models\Parent.class
+com\example\schoolManagementApplication\repositories\StudentRepository.class
+com\example\schoolManagementApplication\models\Teacher.class
+com\example\schoolManagementApplication\services\TeacherService.class
+com\example\schoolManagementApplication\services\ParentService.class
+com\example\schoolManagementApplication\repositories\TeacherRepository.class
+com\example\schoolManagementApplication\SchoolManagementApplication.class
